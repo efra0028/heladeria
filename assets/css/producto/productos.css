@@ -1,0 +1,5 @@
+.productos {
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+}

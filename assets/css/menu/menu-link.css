@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.menu__link {
+    color: red;
+    margin-right: 4rem;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+    color: black;
+
+}
