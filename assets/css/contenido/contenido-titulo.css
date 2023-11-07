@@ -2,3 +2,15 @@
     color: red;
     font-family: Agbalumo;
 }
+
+@media screen and (width:0) {
+    .contenido__titulo {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (width:768px) {
+    .contenido__titulo {
+        font-size: 2.5rem;
+    }
+}

@@ -1,13 +1,27 @@
 .banner__titulo {
-    color: white;
+    color: black;
     font-family: Agbalumo;
-    position: relative;
+    position: absolute;
     text-align: center;
     left: 0;
     text-shadow: 0 4px 4px red;
-    top: 50%;
-
+    width: 100%;
     text-transform: uppercase;
-    font-size: 100px;
+    font-size: 5rem;
     padding: 0;
+
+}
+
+@media screen and (min-width:0) {
+    .banner__titulo {
+        font-size: 5rem;
+    }
+
+}
+
+@media screen and (min-width:768px) {
+    .banner__titulo {
+        font-size: 3rem;
+    }
+
 }

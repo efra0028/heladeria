@@ -1,0 +1,8 @@
+.piedepagina__titulo {
+    color: orange;
+    display: flex;
+    font-family: Agbalumo;
+    font-size: 1.2rem;
+    align-items: center;
+    padding: 1.5rem;
+}

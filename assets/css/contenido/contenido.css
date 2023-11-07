@@ -1,3 +1,17 @@
 .contenido {
     text-align: center;
 }
+
+@media screen and (min-width:0) {
+    .contenido {
+        padding: 2rem 1rem;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .contenido {
+        padding: 3rem;
+        text-align: center;
+    }
+}
