@@ -1,3 +1,9 @@
 .piedepagina__icono {
     margin-right: 1.4rem;
 }
+
+.piedepagina_color:hover {
+    background: white;
+    border-radius: 100%;
+    box-shadow: 10px 10px 0px 10px purple;
+}

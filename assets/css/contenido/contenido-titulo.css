@@ -1,6 +1,7 @@
 .contenido__titulo {
     color: red;
     font-family: Agbalumo;
+    font-size: 40px;
 }
 
 @media screen and (width:0) {
